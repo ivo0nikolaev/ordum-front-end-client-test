@@ -2,6 +2,14 @@
 
 This is a basic test page for reaserching
 
+## Start
+
+Install [Node.JS](https://nodejs.org/) if you don't have it.
+Clone the repository
+```
+cd ordum-front-end-client-test
+npm install
+```
 ## Available Scripts
 
 In the project directory, you can run:
