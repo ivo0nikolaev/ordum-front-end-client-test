@@ -7,9 +7,9 @@ import { CreateProfile } from "./pages/CreateProfile";
 
 function App() {
   return (
-    <div className="bg-gray-100 h-screen">
+    <div className="bg-gray-100 h-screen font-montserrat">
       <Header />
-      <div className="ml-10">
+      <div className="ml-10 ">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/LoginWallet" element={<LoginWallet />} />
