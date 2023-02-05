@@ -2,6 +2,7 @@
   "name": "ordum-front-end-client-test",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@kiltprotocol/sdk-js": "^0.30.0",
     "@testing-library/jest-dom": "^5.16.5",
